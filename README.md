@@ -1,4 +1,4 @@
-## Hi George👋,What project have you done today?
+## Hi George👋,Keep going!
 
 <!--
 **I am a passionate developer 
