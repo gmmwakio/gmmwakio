@@ -5,5 +5,5 @@ I am a passionate developer
 Currently learning with PLP Academy  
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gmmwakio&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[[![GitHub Streak](https://streak-stats.demolab.com?user=gmmwakio&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)](https://github.com/DenverCoder1/github-readme-streak-stats.git)
 
